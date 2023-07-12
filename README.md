@@ -1,5 +1,6 @@
 # CandySearch
 
+![CandySearch](https://github.com/RedisMadani/CandySearch/assets/136177376/181f1f63-e45e-4793-b5f1-e0daa66c0c64)
 
 ## Description
 
@@ -18,7 +19,7 @@ To run the CandySearch app on your local machine, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/CandySearch.git
+git clone https://github.com/RedisMadani/CandySearch.git
 ```
 
 2. Navigate to the project directory:
