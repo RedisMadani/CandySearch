@@ -1,7 +1,5 @@
 # CandySearch
 
-![CandySearch](https://github.com/RedisMadani/CandySearch/assets/136177376/181f1f63-e45e-4793-b5f1-e0daa66c0c64)
-
 ## Description
 
 CandySearch is a Swift app that demonstrates how to set up dynamic cell heights for table view cells based on their content. This app serves as a demo for Ray Wenderlich's tech blog, providing a practical example of implementing dynamic cell heights in a table view.
